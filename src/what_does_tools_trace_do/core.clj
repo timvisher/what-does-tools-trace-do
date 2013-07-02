@@ -1,7 +1,7 @@
 (ns what-does-tools-trace-do.core
   (:use clojure.tools.trace))
 
-;;; Tutorial GitHub:
+;;; Tutorial GitHub: https://github.com/timvisher/what-does-tools-trace-do
 ;;; GitHub: https://github.com/clojure/tools.trace
 ;;; API: http://clojure.github.io/tools.trace/
 ;;; ClojureDocs: http://clojuredocs.org/clojure_contrib/clojure.contrib.trace
