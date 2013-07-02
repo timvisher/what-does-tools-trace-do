@@ -1,4 +1,4 @@
-# what-does-tools-trace-do
+# What Does [tools.trace](https://github.com/clojure/tools.trace) Do?
 
 A very basic tutorial for a rather simple library: [tools.trace](https://github.com/clojure/tools.trace)
 
